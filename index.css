@@ -84,7 +84,7 @@ img {
 input {
     background-color: black;
     color: white;
-    font-size: 1.2em;
+    font-size: 1em;
     width: 40%;
     height: 45px;
     border-radius: 25px;
@@ -103,6 +103,7 @@ input {
     border: none;
     margin: 10px;
     font-size: 1.3em;
+    cursor: pointer;
 }
 
 .button:hover {
